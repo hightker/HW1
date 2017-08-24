@@ -55,11 +55,11 @@ Languages
 Extra Curriculum Experience
 ----------------------------------------
 College
-: * On behalf of department of computer science as 	***Student Councilor***
+ * On behalf of department of computer science as 	***Student Councilor***
 
 High School
-: * ***Director*** of guitar club
-: * Lots of live band experience
+ * ***Director*** of guitar club
+ * Lots of live band experience
 
 
 ---
