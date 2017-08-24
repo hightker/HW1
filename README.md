@@ -36,10 +36,11 @@ Side Project
 
 
 Programming Languages
-: * **C++**
-: *  **python** 
-: *  **java** 
-: *  **swift3**
+ * **C++**
+ *  **python** 
+ *  **java** 
+ 
+ *  **swift3**
 
 :   Basic knowledge of **Windows**, **Linux**, **OSX**, **SDN**, **Android**, **IOS** ,**CryptoCurrency**,**Data Mining**
 
